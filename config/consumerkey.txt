@@ -1,0 +1,7 @@
+3MVG9tzQRhEbH_K2TZ7eSyNSjHXtdsjqrVxUjsH4Tzd36YHIUwMf0Eve2BmC9T.u0hOiuUiJi79PoE235kDdO
+export CONSUMER_KEY=3MVG9tzQRhEbH_K2TZ7eSyNSjHXtdsjqrVxUjsH4Tzd36YHIUwMf0Eve2BmC9T.u0hOiuUiJi79PoE235kDdO
+export JWT_KEY_FILE=/users/an/salesforce/trailhead/certificates/server.key
+export HUB_USERNAME=anix@curious-bear-vnitlv.com
+
+travis env set CONSUMERKEY 3MVG9tzQRhEbH_K2TZ7eSyNSjHXtdsjqrVxUjsH4Tzd36YHIUwMf0Eve2BmC9T.u0hOiuUiJi79PoE235kDdO
+travis env set USERNAME anix@curious-bear-vnitlv.com
